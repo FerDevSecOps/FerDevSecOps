@@ -1,7 +1,7 @@
 ## Olá, eu sou o Fernando Costa
 - 🔭 Hoje procuro oportunidades de emprego para iniciar minha carreira
-- 🌱 Estudando C#
-- 📚 Cursando Engenharia da Computação 
+- 🌱 Estudando Cybersecurity
+- 📚 Cursando Ciência da Computação 
 - 🏅 Formado em Técnico de Informática 
 - 📫 Contate-me no e-mail: fernandoazevedocosta7@gmail.com
 - 📅 Nasci no dia 25 de setembro de 2007
