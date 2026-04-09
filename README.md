@@ -1,5 +1,5 @@
 ## Olá, eu sou o Fernando Costa
-- 🔭 Hoje procuro oportunidades de emprego para iniciar minha carreira
+- 🔭 Trabalhando em uma Startup
 - 🌱 Estudando Cybersecurity
 - 📚 Cursando Ciência da Computação 
 - 🏅 Formado em Técnico de Informática 
