@@ -1,22 +1,31 @@
-## Olá, eu sou o Fernando Costa
-- 🔭 Trabalhando em uma Startup
-- 🌱 Estudando Cybersecurity
-- 📚 Cursando Ciência da Computação 
-- 🏅 Formado em Técnico de Informática 
-- 📫 Contate-me no e-mail: fernandoazevedocosta7@gmail.com
-- 📅 Nasci no dia 25 de setembro de 2007
+# Olá, eu sou o Fernando Costa 👋 
+
+🎓 Estudante de **Ciência da Computação na FIAP** e atualmente **estagiário em uma startup**, onde venho desenvolvendo minha experiência prática em tecnologia, desenvolvimento de software e produtos financeiros.
+
+Estou construindo minha carreira em tecnologia e, neste momento, tenho como foco evoluir minhas habilidades de desenvolvimento e iniciar minha especialização em **Cybersecurity**.
+
+### 🚀 Sobre mim
+
+- 🎓 Cursando **Ciência da Computação na FIAP**
+- 💼 **Estagiário em uma startup**, atuando com tecnologia e desenvolvimento
+- 💻 Em desenvolvimento na área de **Full Stack**
+- 🔐 Estudando **Cybersecurity**
+- ☁️ Interesse em **Cloud Security** e **DevSecOps**
+- 🖥️ Técnico em **Informática**
+
+### 🛠️ Atualmente estudando
+
+- Desenvolvimento de Software
+- Cybersecurity
+- Cloud Computing
+- Segurança da Informação
+- DevSecOps
+
+### 📫 Contato
+
+- **E-mail:** [fernandoazevedocosta7@gmail.com](mailto:fernandoazevedocosta7@gmail.com)
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="right" alt="Scooby" height="150" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHdwMTBneWtlaHBja3ZnM2Q0OW9laHg3Nzhrbnk5MWZoZmhjcno2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7WICht89LQdQZa2A/giphy.gif">
-</div>
+   
   
   ##
  
@@ -25,3 +34,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <a href="mailto:fernandoazevedocosta7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernandoazevedocosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<img align="left" alt="Scooby" height="150" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHdwMTBneWtlaHBja3ZnM2Q0OW9laHg3Nzhrbnk5MWZoZmhjcno2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7WICht89LQdQZa2A/giphy.gif"></div>
+
